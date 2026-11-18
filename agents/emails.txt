@@ -1,0 +1,3 @@
+a@mail.com
+b@gmail.com
+c@gmail.com
